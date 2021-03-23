@@ -16,6 +16,7 @@
 		C89D85252609E76E00205640 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C89D85232609E76E00205640 /* LaunchScreen.storyboard */; };
 		C89D85302609E76E00205640 /* PokeDexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D852F2609E76E00205640 /* PokeDexTests.swift */; };
 		C89D853B2609E76F00205640 /* PokeDexUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D853A2609E76F00205640 /* PokeDexUITests.swift */; };
+		C89D854C2609F8DA00205640 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = C89D854B2609F8DA00205640 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C89D85362609E76F00205640 /* PokeDexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokeDexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C89D853A2609E76F00205640 /* PokeDexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeDexUITests.swift; sourceTree = "<group>"; };
 		C89D853C2609E76F00205640 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C89D854B2609F8DA00205640 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				C89D85232609E76E00205640 /* LaunchScreen.storyboard */,
 				C89D85262609E76E00205640 /* Info.plist */,
 				C89D851E2609E76A00205640 /* PokeDex.xcdatamodeld */,
+				C89D854B2609F8DA00205640 /* pokemon.csv */,
 			);
 			path = PokeDex;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			files = (
 				C89D85252609E76E00205640 /* LaunchScreen.storyboard in Resources */,
 				C89D85222609E76E00205640 /* Assets.xcassets in Resources */,
+				C89D854C2609F8DA00205640 /* pokemon.csv in Resources */,
 				C89D851D2609E76A00205640 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
